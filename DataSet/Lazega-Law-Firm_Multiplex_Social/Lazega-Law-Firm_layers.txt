@@ -1,0 +1,4 @@
+layerID nodeID nodeID layerID
+1 advice
+2 friendship
+3 co-work
